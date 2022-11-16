@@ -1,5 +1,5 @@
 # hello-world
 Mi primer repositorio
-paula suarez
-27 años 
-san miguel
+Nombre:Paula Suarez
+Edad:26 años 
+Domicilio:San Miguel
